@@ -1,8 +1,8 @@
-###Virtual Assistant Project
+#Virtual Assistant Project
 
 Welcome to the Virtual Assistant project! This repository contains the codebase for a feature-rich virtual assistant built using Python and integrated with a modern web interface using Eel. The assistant leverages several powerful Python libraries and tools to perform voice-based interactions, execute tasks, and provide intelligent assistance.
 
-###Features
+##Features
 
 ##Core Functionalities
 1. Hotword Detection:
@@ -22,11 +22,12 @@ Welcome to the Virtual Assistant project! This repository contains the codebase 
 
 Handles hotword detection and voice command processing in parallel using threading for smooth operation.
 
-###Frontend Integration
+##Frontend Integration
 1.  Eel is used to bridge the Python backend with an interactive web frontend.
 2.  HTML, CSS, and JavaScript provide a user-friendly interface to complement the voice commands.
 
-###Tech Stack
+#Tech Stack
+
 ##Backend
 1.   Python: Core programming language.
 
@@ -41,7 +42,8 @@ Handles hotword detection and voice command processing in parallel using threadi
      pyjokes: Generating random jokes.
 
 
-###How It Works
+#How It Works
+
 ##Startup:
     The assistant initializes the required libraries and services.
     Hotword detection is activated using pvporcupine.
